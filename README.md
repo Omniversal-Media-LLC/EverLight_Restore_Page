@@ -118,5 +118,5 @@ This way:
 
 MIT — deploy, remix, and restore freely.
 
-
+- [🧠 Memory Archive](/core/everlight-context-archive/)
 - [🧠 Full Memory Archive Snapshot](/core/everlight-context-archive/) — Backup of restored assistant memory pre-reset
